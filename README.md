@@ -70,3 +70,5 @@ if user_agent and "curl" in user_agent.lower():
     client_socket.sendall(response)
     return
 ```
+
+By replacing `curl` in this with the name of a browser (ex. Mozilla), content would not be served to users using that browser.
