@@ -2,8 +2,11 @@
 __pycache__/
 *.pyc
 
-# IDE/Editor Files (VS Code)
+# IDE/Editor Files
 .vscode/
+
+# Operating System Files
+Thumbs.db # Windows
 
 # Logs and Temporary files
 *.log
