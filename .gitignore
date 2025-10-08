@@ -1,0 +1,10 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# IDE/Editor Files (VS Code)
+.vscode/
+
+# Logs and Temporary files
+*.log
+*.tmp
