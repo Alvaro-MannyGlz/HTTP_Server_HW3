@@ -1,3 +1,13 @@
+### Responsibilities
+1. Creating the socket
+   We can split the work out evenly, or such, but everyone must know what is going on
+   
+2. Testing the code
+
+3. Updating the README accordingly for everyone to understand
+
+4. Answering the questions in the README section
+
 ### README
 
 This repository contains the solution for CSCI 4406 - Homework 3: HTTP Server.
@@ -36,4 +46,4 @@ The server must be run from the command line, specifying the port it should list
 **1. What is the difference between http_server (what you wrote) and Apache?**
 
 
-**2. Some web sites allow only certain browsers (e.g., Chrome) to download content from them. How can you write http_server to support this feature? Be specific about where/what code is needed.**
+**2. Some websites allow only certain browsers (e.g., Chrome) to download content from them. How can you write http_server to support this feature? Be specific about where/what code is needed.**
